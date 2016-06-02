@@ -9,7 +9,7 @@
    * [Contributors](contributors.md)
    * [Help](help.md)
    * [Developers' Entry](developers.md)
-* [Installing and running a node](getting_a_client.md)
+* [Installing and running a node](getting_a_*client*.md)
    * [Platforms](platforms.md)
        * [Linux](installing_linux.md)
        * [Mac](installing_mac.md)
@@ -25,7 +25,7 @@
    * [Importing your presale wallet](wallet.md)
    * [Listing accounts and checking balances](listing_accounts.md)
    * [Sending ether](sending_ether.md)
-* [Mining]()
+* Mining
    * [Introduction](mining.md)
    * [CPU mining with geth](mining_with_geth.md)
    * [GPU mining](gpu.md)
@@ -46,7 +46,7 @@
    * [NatSpec](natspec.md)
    * [Testing contracts and transactions](testing_contracts_and_transactions.md)
    * [Registrar services](registrar_services.md)
-   * [Example script](example_script.md)
+   * [Exemplo script](exemploscript_md.md)
    * [Contract tutorials](contract_tutorials.md)
        * [Greeter](contract_greeter.md)
        * [Registrars](contract_namereg.md)
@@ -60,3 +60,4 @@
    * [ABI: Application Binary Interface](abi.md)
    * [Solidity](solidity.md)
    * [Opcodes, costs, and gas](opcodes,_costs,_and_gas.md)
+
