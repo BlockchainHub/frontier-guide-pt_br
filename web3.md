@@ -1,6 +1,6 @@
-<--! Source: https://raw.githubusercontent.com/wiki/ethereum/wiki/JavaScript-API.md-->
+<!-- Source: https://raw.githubusercontent.com/wiki/ethereum/wiki/JavaScript-API.md-->
 
-# API de Web3 JavaScript para Ðapp
+# API JavaScript de Web3 para Ðapps
 
 Para fazer a sua  Ðapp funcionar na Ethereum, você pode usar o objeto `web3` provido pela biblioteca [web3.js library](https://github.com/ethereum/web3.js). Por baixo dos panos, ela se comunica a um nó local através de [Chamadas RPC](https://github.com/ethereum/wiki/wiki/JSON-RPC). web3.js funciona com qualquer nó Ethereum que exponha uma camada RPC.
 

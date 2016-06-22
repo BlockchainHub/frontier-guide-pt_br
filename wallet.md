@@ -1,6 +1,3 @@
-{% sections "importing-your-presale-wallet", "" %}
-{% endsections %}
-
 # Importando sua carteira de pré-venda
 
 Importar sua carteira de pré-venda é bem simples. Se você lembrar a sua senha, é assim:

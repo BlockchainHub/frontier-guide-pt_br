@@ -1,6 +1,3 @@
-{% sections "introduction", "" %}
-{% endsections %}
-
 #Introdução
 
 A palavra mineração é originada do contexto da analogia entre o ouro e as criptomoedas. Ouro ou metais preciosos são escassos, assim como *tokens* digitais, e a única forma de aumentar o volume é através da mineração. Isto é apropriado na medida que, também na rede Ethereum, a única forma de emissão pós-lançamento é via mineração. No entanto, ao contrário do exemplo dos metais preciosos, a mineração é também a forma de manter a segurança da rede com a criação, verificação, publicação e propagação dos blocos na blockchain.

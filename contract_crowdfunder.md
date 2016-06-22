@@ -1,6 +1,3 @@
-{% sections "crowdfund-your-idea", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" -->
 <!--Versão Publicada-->
 

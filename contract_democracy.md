@@ -1,6 +1,3 @@
-{% sections "democracy-dao", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" -->
 <!--Versão Publicada-->
 

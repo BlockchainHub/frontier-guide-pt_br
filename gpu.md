@@ -1,6 +1,3 @@
-{% sections "gpu-mining", "" %}
-{% endsections %}
-
 # Mineração com GPU
 
 ***

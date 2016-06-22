@@ -1,4 +1,4 @@
-<--! Source: https://raw.githubusercontent.com/wiki/ethereum/go-ethereum/JavaScript-Console.md-->
+<!-- Source: https://raw.githubusercontent.com/wiki/ethereum/go-ethereum/JavaScript-Console.md-->
 # JavaScript Runtime Environment
 
 Ethereum implementa um **ambiente javascript em tempo de execução** (*javascript runtime environment*/JSRE) que pode ser usado tanto em modo interativo (console) quanto não-interativo (script).

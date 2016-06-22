@@ -1,4 +1,3 @@
-
 <!-- "https://raw.githubusercontent.com/wiki/ethereum/go-ethereum/Ethereum-Specification.md" -->
 <!--Versão Publicada-->
 

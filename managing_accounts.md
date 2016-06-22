@@ -1,6 +1,3 @@
-{% sections "managing-accounts", "" %}
-{% endsections %}
-
 # Administrando contas
 
 **Aviso**

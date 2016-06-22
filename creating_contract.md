@@ -1,6 +1,3 @@
-{% sections "creating-and-deploying-a-contract", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contracts-and-Transactions.md" -->
 
 # Criando e implementando um contrato

@@ -1,4 +1,4 @@
-<--! Source: https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options.md -->
+<!-- Source: https://github.com/ethereum/go-ethereum/wiki/Command-Line-Options.md -->
 
 # Opções da linha de comando
 

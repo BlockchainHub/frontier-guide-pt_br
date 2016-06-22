@@ -1,6 +1,3 @@
-{% sections "creating-accounts", "" %}
-{% endsections %}
-
 # Criando Contas
 
 ## Criando uma Nova Conta

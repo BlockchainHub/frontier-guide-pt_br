@@ -1,6 +1,3 @@
-{% sections "compiling-a-contract", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contracts-and-Transactions.md"-->
 
 # Compilando um contrato

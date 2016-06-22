@@ -1,6 +1,3 @@
-{% sections "natspec", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contracts-and-Transactions.md" -->
 
 # NatSpec 

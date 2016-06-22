@@ -1,7 +1,4 @@
-{% sections "introduction", "" %}
-{% endsections %}
-
-<--! souce "git+https://github.com/ethereum/wiki.wiki.git/Ethereum-Development-Tutorial.md"-->
+<!-- souce "git+https://github.com/ethereum/wiki.wiki.git/Ethereum-Development-Tutorial.md"-->
 
 
 ### Introdução

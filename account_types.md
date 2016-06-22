@@ -1,7 +1,4 @@
-{% sections "account-types-and-transactions", "" %}
-{% endsections %}
-
-<--! Source: https://github.com/ethereum/go-ethereum.wiki.git/Contracts-and-Transactions.md" %} -->
+<!-- Source: https://github.com/ethereum/go-ethereum.wiki.git/Contracts-and-Transactions.md" %} -->
 
 # Tipos de contas e transações
 

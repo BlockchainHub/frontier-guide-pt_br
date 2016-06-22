@@ -1,6 +1,3 @@
-{% sections "listing-accounts-and-checking-balances", "" %}
-{% endsections %}
-
 # Listando contas e checando balanços
 
 ### Listando suas contas atuais

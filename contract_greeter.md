@@ -1,6 +1,3 @@
-{% sections "your-first-citizen-the-greeter", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contract-Tutorial.md" -->
 <!--Versão Publicada-->
 

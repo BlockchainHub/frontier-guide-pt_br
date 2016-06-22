@@ -1,5 +1,3 @@
-{% sections "interfaces", "" %}
-{% endsections %}
 <!-- source: https://raw.githubusercontent.com/wiki/ethereum/go-ethereum/Geth.md -->
 
 # Geth

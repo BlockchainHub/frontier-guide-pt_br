@@ -1,6 +1,3 @@
-{% sections "cpu-mining-with-geth", "" %}
-{% endsections %}
-
 # Mineração com CPU usando Geth
 
 Na Frontier, a primeira versão da Ethereum, você precisará apenas de a) uma GPU e b) um **client** da Ethereum, o Geth. Mineração com CPU será possível mas ineficiente demais para dar retorno financeiro.

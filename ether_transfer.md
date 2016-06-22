@@ -1,6 +1,3 @@
-{% sections "ether-transfer", "" %}
-{% endsections %}
-
 <!--Source: https://raw.githubusercontent.com/wiki/ethereum/go-ethereum/Contracts-and-Transactions.md-->
 
 

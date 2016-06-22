@@ -1,4 +1,4 @@
-<--! Source: https://raw.githubusercontent.com/wiki/ethereum/wiki/JSON-RPC.md -->
+<!-- Source: https://raw.githubusercontent.com/wiki/ethereum/wiki/JSON-RPC.md -->
 
 # API JSON RPC
 

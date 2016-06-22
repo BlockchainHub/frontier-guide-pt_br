@@ -1,6 +1,3 @@
-{% sections "testing-contracts-and-transactions", "" %}
-{% endsections %}
-
 <!-- "git+https://github.com/ethereum/go-ethereum.wiki.git/Contracts-and-Transactions.md" -->
 
 
